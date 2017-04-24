@@ -1,5 +1,3 @@
-const Person = require('./person');
-
 class Elevator {
   constructor() {
     this.floor = 0;
